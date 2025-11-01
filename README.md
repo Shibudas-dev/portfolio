@@ -4,11 +4,15 @@ This is a personal portfolio website for Shibu, a passionate frontend developer.
 
 ## Live Demo
 
-A live demo of the website can be found here: [https://your-username.github.io/portfolio/](https://your-username.github.io/portfolio/)
+A live demo of the website can be found here: [Live Demo](https://shibudas-dev.github.io/portfolio/)
 
 ## Project Description
 
 This portfolio is a single-page application built with HTML, CSS, and JavaScript. It features a clean and modern design with a focus on user experience. The website is fully responsive and looks great on all devices.
+
+## Preview
+
+> ![Screenshot](portfolioss.png)
 
 ## Features
 
